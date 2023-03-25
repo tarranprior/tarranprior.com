@@ -1,15 +1,13 @@
 {
   "name": "Tarran Prior",
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "💾 My ever-changing personal website and mediocre blog at best. Built with Gatsby, MDX and styled-components.",
   "version": "1.0.1",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.7",
@@ -23,9 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/tarranprior/tarranprior.com"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/tarranprior/tarranprior.com/issues"
   }
 }
