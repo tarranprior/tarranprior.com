@@ -81,16 +81,16 @@ export default function Home() {
               <p>The most advanced cyber security focused bot on Discord. Built-in <b>networking utilities</b>, <b>security tools</b>, <b>OSINT</b>, <b>CTFs</b> and more.</p>
             </li>
             <li>
-              <h4>📁 <a href="https://github.com/tarranprior/disclone" target="_blank" rel="noreferrer">Disclone/</a></h4>
-              <p><b>Disclone</b> is a self-hostable bot with <b>Rclone</b> integration, <b>Gclone</b> support and <b>Google Drive</b> automation utilities for collaborative cloud storage management.</p>
-            </li>
-            <li>
               <h4>✈️ <a href="https://github.com/tarranprior/blackstar" target="_blank" rel="noreferrer">Blackstar/</a></h4>
               <p>An asynchronous and lightweight <b>OSINT</b> and <b>online surveillance</b> tool which searches for usernames across common social networking platforms. Inspired by The Sherlock Project.</p>
             </li>
             <li>
-              <h4>📁 <a href="https://github.com/tarranprior/runebot" target="_blank" rel="noreferrer">Runebot/</a></h4>
-              <p><b>Runebot</b> is a feature rich Discord tool which scrapes, pulls and displays information about the popular MMORPG <b>Old School RuneScape</b>. Built with Python and Beautiful Soup 4.</p>
+              <h4>📁 <a href="https://github.com/tarranprior/disclone" target="_blank" rel="noreferrer">Disclone/</a></h4>
+              <p><b>Disclone</b> is a self-hostable bot with <b>Rclone</b> integration, <b>Gclone</b> support and <b>Google Drive</b> automation utilities for collaborative cloud storage management.</p>
+            </li>
+            <li>
+              <h4>⚔️ <a href="https://github.com/tarranprior/runebot" target="_blank" rel="noreferrer">Runebot/</a></h4>
+              <p><b>Runebot</b> is a feature-rich Discord tool which scrapes, pulls and displays information about the popular MMORPG <b>Old School RuneScape</b>. Built with Python and Beautiful Soup 4.</p>
             </li>
           </StyledProjectList>
         </main>
