@@ -89,8 +89,8 @@ export default function Home() {
               <p><b>Disclone</b> is a self-hostable bot with <b>Rclone</b> integration, <b>Gclone</b> support and <b>Google Drive</b> automation utilities for collaborative cloud storage management.</p>
             </li>
             <li>
-              <h4>⚔️ <a href="https://github.com/tarranprior/runebot" target="_blank" rel="noreferrer">Runebot/</a></h4>
-              <p><b>Runebot</b> is a feature-rich Discord tool which scrapes, pulls and displays information about the popular MMORPG <b>Old School RuneScape</b>. Built with Python and Beautiful Soup 4.</p>
+              <h4>📁 <a href="https://runebot.org" target="_blank" rel="noreferrer">Runebot/</a></h4>
+              <p>The open source RuneScape lookup tool. <b>Runebot</b> is a feature-rich Discord bot which scrapes, pulls and displays information about the popular MMORPG <b>Old School RuneScape</b>.</p>
             </li>
           </StyledProjectList>
         </main>
@@ -101,6 +101,6 @@ export default function Home() {
 
 export function Head() {
   return (
-    <title>Tarran Prior — Home</title>
+    <title>Tarran Prior - Home</title>
   );
 };
